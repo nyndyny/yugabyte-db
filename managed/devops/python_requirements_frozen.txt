@@ -15,7 +15,7 @@ azure-mgmt-privatedns==0.1.0
 azure-mgmt-resource==10.0.0
 azure-nspkg==3.0.2
 bcrypt==3.1.7
-boto3==1.4.0
+boto3==1.4.5
 boto==2.42.0
 botocore==1.4.59
 cachetools==3.1.1
@@ -64,3 +64,4 @@ six==1.15.0
 typing==3.7.4.3
 uritemplate==3.0.1
 urllib3==1.25.11
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
