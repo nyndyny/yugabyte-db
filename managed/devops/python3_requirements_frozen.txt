@@ -6,7 +6,7 @@ PyYAML==5.4.1
 adal==1.2.7
 ansible-vault==2.1.0
 ansible==2.9.19
-awscli==1.19.73
+awscli==1.27.90
 azure-common==1.1.25
 azure-mgmt-compute==12.1.0
 azure-mgmt-network==10.2.0
