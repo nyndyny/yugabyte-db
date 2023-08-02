@@ -6,7 +6,7 @@ PyYAML==5.1
 adal==1.2.7
 ansible-vault==1.2.0
 ansible==2.5.4
-awscli==1.11.1
+awscli==1.16.213
 azure-common==1.1.25
 azure-mgmt-compute==12.1.0
 azure-mgmt-network==10.2.0
@@ -17,7 +17,7 @@ azure-nspkg==3.0.2
 bcrypt==3.1.7
 boto3==1.4.0
 boto==2.42.0
-botocore==1.4.59
+botocore==1.9.12
 cachetools==3.1.1
 certifi==2020.12.5
 cffi==1.14.5
