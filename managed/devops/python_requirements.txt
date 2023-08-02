@@ -20,7 +20,7 @@
 
 ansible==2.5.4
 ansible-vault==1.2.0
-awscli==1.11.1
+awscli==1.16.213
 azure-common==1.1.25
 azure-mgmt-compute==12.1.0
 azure-mgmt-privatedns==0.1.0
@@ -28,7 +28,7 @@ azure-mgmt-network==10.2.0
 azure-mgmt-resource==10.0.0
 boto==2.42.0
 boto3==1.4.0
-botocore==1.4.59
+botocore==1.9.12
 cryptography==1.7.2
 distro==1.5.0
 enum34==1.1.6
