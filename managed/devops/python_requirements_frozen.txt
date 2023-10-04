@@ -63,4 +63,4 @@ s3transfer==0.1.13
 six==1.15.0
 typing==3.7.4.3
 uritemplate==3.0.1
-urllib3==1.25.11
+urllib3==1.26.17
