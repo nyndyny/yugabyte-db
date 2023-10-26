@@ -29,7 +29,7 @@ azure-mgmt-resource==10.0.0
 boto==2.42.0
 boto3==1.4.0
 botocore==1.4.59
-cryptography==1.7.2
+cryptography==41.0.5
 distro==1.5.0
 enum34==1.1.6
 fabric==2.2.1
