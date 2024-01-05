@@ -40,7 +40,7 @@ ipaddr==2.1.11
 mitogen==0.2.9
 oauth2client<4.0.0  # GCP SDK seems to require version <4 of oauth2client: https://goo.gl/7uC34W
 paramiko==2.4.2
-pycryptodome==3.6.1
+pycryptodome==3.19.1
 python-dateutil==2.5.3
 PyYAML==5.1
 requests-oauthlib==1.3.0
