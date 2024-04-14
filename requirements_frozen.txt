@@ -12,7 +12,7 @@ compiler-identification==1.0.3
 Deprecated==1.2.13
 distro==1.6.0
 downloadutil==1.0.2
-idna==3.2
+idna==3.7
 importlib-metadata==4.8.3
 iniconfig==1.1.1
 mypy==0.910
