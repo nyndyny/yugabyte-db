@@ -45,7 +45,7 @@ python-dateutil==2.5.3
 python-ldap
 PyYAML
 requests-oauthlib==1.3.0
-requests==2.25.1
+requests==2.32.0
 setuptools>=11.333
 six==1.10.0
 yb-cassandra-driver
