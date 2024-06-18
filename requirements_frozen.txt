@@ -40,7 +40,7 @@ toml==0.10.2
 typed-ast==1.5.1
 typing-extensions==3.10.0.2
 typing-utils==0.1.0
-urllib3==1.26.7
+urllib3==1.26.19
 wrapt==1.12.1
 yugabyte-pycommon==1.9.15
 zipp==3.6.0
