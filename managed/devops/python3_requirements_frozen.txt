@@ -61,3 +61,4 @@ six==1.10.0
 uritemplate==3.0.1
 urllib3==1.26.6
 yb-cassandra-driver==3.13.0.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
