@@ -64,3 +64,4 @@ six==1.15.0
 typing==3.7.4.3
 uritemplate==3.0.1
 urllib3==1.25.11
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
