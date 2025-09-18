@@ -44,7 +44,7 @@
     "run-p": "0.0.0",
     "webpack": "4.44.2",
     "webpack-cli": "4.7.2",
-    "webpack-dev-server": "3.11.2"
+    "webpack-dev-server": "4.8.0"
   },
   "devDependencies": {
     "autoprefixer": "10.4.4",
