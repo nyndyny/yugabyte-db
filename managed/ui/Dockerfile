@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:25.5.0-alpine3.23
 MAINTAINER YugaByte
 ENV container=yugaware-ui
 
